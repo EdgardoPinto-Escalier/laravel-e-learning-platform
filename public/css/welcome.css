@@ -1,0 +1,106 @@
+html,
+body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    background-color: #9077F3;
+    color: #fff;
+    color: #ffffff;
+    font-weight: bold;
+    height: 100vh;
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.3rem;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.card {
+  background-color: #9077F3;
+  box-shadow: none;
+  border: 5px solid #fff;
+}
+
+.card-header {
+  background-color: #9077F3;
+  border-bottom: none;
+}
+
+a.btnFront {
+  background-color: #9077F3;
+  color: #fff;
+  border: 5px solid #fff;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  -webkit-appearance: none;
+}
+
+a.btnFront:hover {
+  background-color: #512da8;
+  border: 5px solid #512da8;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+
+    font-weight: bold;
+}
+
+div.card-header i {
+  font-size: 4rem;
+}
+
+ul li a i {
+  font-size: 4rem;
+  color: #b39ddb;
+  transition: transform .2s;
+}
+
+ul li a i:hover {
+  transform: scale(1.5);
+}
+
+a.nav-link.active {
+  color: #fff !important;
+  font-size: 1rem;
+  margin-right: 2rem;
+  padding: 0;
+}
+
+a.nav-link.active:hover {
+  color: #512da8 !important;
+  border-bottom: 5px solid #512da8;
+  padding: 0;
+}
+
+/***** Media Queries Styles for the Welcome page *****/
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+  ul li a i {
+    font-size: 3rem;
+    color: #cccccc;
+    padding: 5px;
+  }
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  ul li a i {
+    font-size: 2.5rem;
+    color: #cccccc;
+    padding: 5px;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  ul li a i {
+    font-size: 2rem;
+    color: #cccccc;
+  }
+}
