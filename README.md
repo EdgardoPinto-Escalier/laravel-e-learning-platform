@@ -35,14 +35,23 @@ Please note that this is an ongoing project that it's on its early stages and is
 ## How to use it
 
 1 - Clone the repository to your desktop
+
 2 - Create the database
+
 3 - In the project root create and .env file and copy everything from the .env.example file.
+
 4 - Fill in your database credentials as well as your Mail, GitHub, Facebook and Stripe Keys.
+
 5 - Deploy the project to your cloud server via SSH.
+
 6 - Make sure a database is created and you have properly installed a LEMP server.
+
 7 - Migrate and seed your database typing the following command in your terminal: `php artisan migrate:fresh --seed`
+
 8 - Install Composer
+
 9 - Run the command `composer install` 
+
 
 ## Demo site
 
