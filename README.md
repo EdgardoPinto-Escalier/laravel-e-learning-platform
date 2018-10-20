@@ -58,4 +58,13 @@ Please note that this is an ongoing project that it's on its early stages and is
 [LEARN WEB CODE](https://learnwebcode.online)
 
 
+## Todo
+
+- Develop the Curriculum for each course (Content).
+- Logic for the video courses. 
+- Form to add the video courses to each lesson.
+- Develop the view to show the videos for each lesson
+- Routing and security to display the video courses.
+
+
 
