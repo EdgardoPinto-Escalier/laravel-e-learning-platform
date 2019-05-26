@@ -53,10 +53,6 @@ Please note that this is an ongoing project that it's on its early stages and is
 9 - Run the command `composer install` 
 
 
-## Demo site
-
-[LEARN WEB CODE](https://learnwebcode.online)
-
 
 ## Todo
 
