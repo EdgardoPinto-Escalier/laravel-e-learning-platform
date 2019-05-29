@@ -3,7 +3,7 @@
 Learn Web Code is an online learning platform developed with Laravel as the main PHP framework.
 Please note that this is an ongoing project that it's on its early stages and is under development.
 
-![](public/images/learnwebcodehome.png
+![](public/images/learnwebcodehome.png)
 
 ## Below are listed some of the main features:
 
